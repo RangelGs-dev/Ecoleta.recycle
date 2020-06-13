@@ -11,5 +11,18 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
-  }
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RangelGs-dev/Ecoleta.recycle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RangelGs-dev/Ecoleta.recycle/issues"
+  },
+  "homepage": "https://github.com/RangelGs-dev/Ecoleta.recycle#readme",
+  "description": ""
 }
