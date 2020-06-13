@@ -1,7 +1,7 @@
 {
   "name": "nlw",
   "scripts": {
-    "start": "node src/server.js"
+    "start": "node index.html"
   },
   "dependencies": {
     "-": "0.0.1",
